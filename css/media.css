@@ -1,0 +1,86 @@
+@media screen and (max-width:1200px) {
+    .headline h1 {
+        font-size: 100px
+    }
+
+    .text p {
+        margin: 18px;
+        font-size: 18px;
+        letter-spacing: 3px;
+        line-height: 38px;
+        padding: 20px;
+    }
+
+    #i_cat {
+        width: 30%;
+        right: -10px;
+        top: -50px;
+    }
+
+    #i_dog {
+        left: -190px;
+        top: 350px;
+        width: 30%;
+
+    }
+
+}
+
+@media screen and (max-width:1000px) {
+    .text p {
+        margin: 17px;
+        font-size: 14px;
+        letter-spacing: 3px;
+        line-height: 33px;
+        padding: 20px;
+    }
+
+    #i_dog {
+        left: -190px;
+        top: 300px;
+        width: 30%;
+
+    }
+
+
+}
+
+@media screen and (max-width:800px) {
+    .text p {
+        margin: 17px;
+        font-size: 13px;
+        letter-spacing: 3px;
+        line-height: 27px;
+        padding: 20px;
+    }
+
+    #i_dog {
+        left: -190px;
+        top: 250px;
+        width: 30%;
+
+    }
+}
+
+@media screen and (max-width:500px) {
+
+    .headline h1 {
+        font-size: 60px
+    }
+
+    .text p {
+        margin: 17px;
+        font-size: 10px;
+        letter-spacing: 2px;
+        line-height: 20px;
+        padding: 20px;
+    }
+
+    #i_dog {
+        left: 0px;
+        top: 350px;
+        width: 30%;
+
+    }
+
+}
